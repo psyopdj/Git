@@ -7,6 +7,7 @@ namespace Test1
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("This program is connected to GitHub");
         }
     }
 }
